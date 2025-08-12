@@ -1,16 +1,26 @@
-## Hi there 👋
+# Halo, saya Mahasiswa Baru Teknik Informatika 👋
 
-<!--
-**esterhutapea/esterhutapea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di repository saya!  
+Saya **Ester Hutapea**, mahasiswa baru di jurusan Teknik Informatika.  
+Saat ini saya masih belajar banyak hal tentang pemrograman, komputer, dan teknologi.
 
-Here are some ideas to get you started:
+## Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Sedang belajar dasar-dasar pemrograman (Python, C, HTML, dsb.)
+- 🤔 Tertarik dengan dunia teknologi dan pengembangan software
+- 💡 Masih banyak yang ingin saya pelajari, jadi repository ini akan berisi catatan, tugas kuliah, dan projek latihan saya
+
+## Repository Ini Berisi
+
+- Tugas-tugas kuliah
+- Projek latihan pemrograman
+- Catatan belajar saya
+
+## Catatan
+
+Saya masih pemula dan sedang belajar.
+Terima kasih sudah mampir!
+
+---
+
+> "Belajar adalah proses, gagal itu biasa, yang penting terus mencoba!"
